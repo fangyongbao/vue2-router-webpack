@@ -14,7 +14,7 @@
   webview与js交互模块封装<br>
   配置文件分离<br>
   自动打包多个html文件<br>
-  以一个简单的例子实现 action->dispatch->mutation->state->view流程<br>
+  以一个简单的例子实现vue-router<br>
   定义共用sass文件<br>
   提取css<br>
   css自动添加浏览器前缀<br>
